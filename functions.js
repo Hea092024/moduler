@@ -1,8 +1,8 @@
-export { multiplied, devide};
+export { multiplied, divide};
 
 
 const multiplied = (a, b) => {
-  const devide = (a, b) => {
+  const divide = (a, b) => {
     a / b;
   };
 };
