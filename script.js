@@ -1,9 +1,3 @@
-const one = 1;
-const two = 2;
-const three = 3;
+import {one } from "./variables.js"
 
-const multiplied = (a , b ) => {
-    const devide = (a , b ) => {
-        a/b
-    }
-}
+console.log(one)
