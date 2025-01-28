@@ -1,3 +1,3 @@
-import {one } from "./variables.js"
+import {one, two , three } from "./variables.js";
 
-console.log(one)
+console.log(one,two,three);
